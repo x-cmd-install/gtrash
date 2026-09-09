@@ -7,7 +7,7 @@ A Featureful Trash CLI manager: alternative to rm and trash-cli
 - **Latest release**: `v0.0.6` (2024-07-01)
 - **Last commit**: 2025-05-22
 - **License**: MIT
-- **Stars**: 319 · **Forks**: 7 · **Open issues**: 21 · **Contributors**: 3
+- **Stars**: 320 · **Forks**: 7 · **Open issues**: 21 · **Contributors**: 3
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/gtrash> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T05:04:24Z._
+_Last regenerated: 2026-09-09T19:19:08Z._
