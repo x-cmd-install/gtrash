@@ -1,28 +1,3 @@
-- repo: nix_stable_24_05
-  srcname: gtrash
-  visiblename: gtrash
-  version: 0.0.5
-  origversion: null
-  status: outdated
-  summary: A Trash CLI manager written in Go
-  maintainers:
-    - umlx5h@github
-  licenses:
-    - MIT
-- repo: homebrew
-  srcname: gtrash
-  visiblename: gtrash
-  version: 0.0.6
-  origversion: null
-  status: newest
-  summary: 'Featureful Trash CLI manager: alternative to rm and trash-cli'
-- repo: homebrew
-  srcname: gtrash
-  visiblename: gtrash
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: 'Featureful Trash CLI manager: alternative to rm and trash-cli'
 - repo: aur
   srcname: gtrash
   binname: gtrash
@@ -45,6 +20,31 @@
   summary: A Trash CLI manager written in Go
   maintainers:
     - umlx5h@aur
+  licenses:
+    - MIT
+- repo: homebrew
+  srcname: gtrash
+  visiblename: gtrash
+  version: 0.0.6
+  origversion: null
+  status: newest
+  summary: 'Featureful Trash CLI manager: alternative to rm and trash-cli'
+- repo: homebrew
+  srcname: gtrash
+  visiblename: gtrash
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: 'Featureful Trash CLI manager: alternative to rm and trash-cli'
+- repo: nix_stable_24_05
+  srcname: gtrash
+  visiblename: gtrash
+  version: 0.0.5
+  origversion: null
+  status: outdated
+  summary: A Trash CLI manager written in Go
+  maintainers:
+    - umlx5h@github
   licenses:
     - MIT
 - repo: nix_stable_24_11
